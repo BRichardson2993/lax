@@ -1,7 +1,7 @@
 lax
 ===
 
-A pythonic way of writting latex.
+A pythonic way of writing latex.
 
 I always found it boring and a pain to write some mathematical
 formulaes in latex. Mainly those with a lot of \frac{x}{Y} stuff.
